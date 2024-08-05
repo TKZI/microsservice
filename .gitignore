@@ -1,0 +1,6 @@
+# Ignorar arquivos sensíveis e de configuração específicos
+.metadata/.plugins/org.eclipse.debug.core/.launches/
+
+# Ignorar arquivos de configuração específicos
+*.env
+*.properties

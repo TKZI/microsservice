@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Inline local variable &apos;br.com.tkzi.configuration.ApiGatewayConfiguration.gatewayRouter(...).function&apos; in &apos;br.com.tkzi.configuration.ApiGatewayConfiguration.gatewayRouter(...)&apos;&#x0D;&#x0A;- Original project: &apos;api-gateway&apos;&#x0D;&#x0A;- Original element: &apos;br.com.tkzi.configuration.ApiGatewayConfiguration.gatewayRouter(...).function&apos;" description="Inline local variable &apos;function&apos;" id="org.eclipse.jdt.ui.inline.temp" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;br.com.tkzi.configuration{ApiGatewayConfiguration.java" selection="710 0" stamp="1715123085304" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+package br.com.tkzi.service;
+
+public class ChatGptService {
+
+}

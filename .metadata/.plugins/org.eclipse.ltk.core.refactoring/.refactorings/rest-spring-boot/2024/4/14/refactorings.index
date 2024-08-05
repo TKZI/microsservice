@@ -1,0 +1,5 @@
+1712017871045	Rename type 'MathController'
+1712017884240	Delete element
+1712100303542	Rename type 'UnsupportedMathOperationException'
+1712101085101	Rename method 'getName'
+1712101106217	Rename method 'setName'
